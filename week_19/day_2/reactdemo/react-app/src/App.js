@@ -1,6 +1,6 @@
 import React from "react";
-import HelloDiv from "./components/HelloDiv";
+import JSXVariables from "./components/JSXVariables";
 
-const App = () => <HelloDiv />;
+const App = () => <JSXVariables />;
 
 export default App;
